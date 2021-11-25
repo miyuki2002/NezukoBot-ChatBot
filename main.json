@@ -209,5 +209,31 @@
                 "thôi dịch như này đi làm gì"
             ]
         }
+        {
+            "intent": "other.gamekhong",
+            "utterances": [
+                "làm trận game không nào",
+                "game 0",
+                "game không",
+                "game ko",
+                "chiến game đê"
+            ],
+            "answers": [
+                "vào",
+                "không, cậu đần lắm tớ xin kiếu",
+                "cậu gánh tớ nha",
+                "chơi một mình đi cậu"
+            ]
+        }
+        {
+            "intent": "other.bruh",
+            "utterances": [
+                "bruh"
+            ],
+            "answers": [
+                "bruh",
+                "bủh"
+            ]
+        }
     ]
 }
